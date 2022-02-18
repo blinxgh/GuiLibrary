@@ -19,9 +19,9 @@ function library:CreateWindow(name)
 	MainWindow.Parent = Library
 	MainWindow.BackgroundColor3 = Color3.fromRGB(33, 31, 32)
 	MainWindow.Position = UDim2.new(0.345757335, 0, 0.16842106, 0)
-	MainWindow.Size = UDim2.new(0, 352, 0, 191
-	MainWindow.Draggable = true
+	MainWindow.Size = UDim2.new(0, 352, 0, 191)
 	MainWindow.Active = true
+	MainWindow.Draggable = true
 
 	UICorner.Parent = MainWindow
 
